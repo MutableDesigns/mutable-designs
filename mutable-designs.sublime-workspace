@@ -1,0 +1,981 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"buildin",
+				"buildingAreaModel"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/alex/Projects/mutable-designs"
+	],
+	"file_history":
+	[
+		"/home/alex/Projects/laravel-blog/provisioning/Dockerfile",
+		"/home/alex/Projects/laravel-blog/docker-compose.yml",
+		"/home/alex/Projects/mutabledesigns/php-fpm.dockerfile",
+		"/home/alex/Projects/mutabledesigns/docker-compose.yml",
+		"/home/alex/Projects/mutabledesigns/vhost.conf",
+		"/home/alex/Projects/mutabledesigns/bootstrap/cache/config.php",
+		"/home/alex/Projects/mutabledesigns/server.php",
+		"/home/alex/Projects/mutabledesigns/.env",
+		"/home/alex/Projects/laravel-blog/composer.json",
+		"/home/alex/Projects/mutabledesigns/composer.json",
+		"/home/alex/Projects/mutabledesigns/nginx.dockerfile",
+		"/home/alex/Projects/mutabledesigns/public/index.php",
+		"/home/alex/Projects/laradock/DOCUMENTATION/content/guides/index.md",
+		"/home/alex/Projects/mutabledesigns/dockerfiles/php-fpm.dockerfile",
+		"/home/alex/Projects/mutabledesigns/dockerfiles/nginx.dockerfile",
+		"/home/alex/Projects/mutabledesigns/dockerfiles/vhost.conf",
+		"/home/alex/Projects/mutabledesigns/dockerfiles/vhosts.conf",
+		"/home/alex/Projects/laradock/docker-compose.yml",
+		"/home/alex/Projects/mutabledesigns/vhosts.conf",
+		"/home/alex/Projects/mutabledesigns/app.dockerfile",
+		"/home/alex/Projects/mutabledesigns/web.dockerfile",
+		"/home/alex/Projects/mutabledesigns/laradock-dockerfile.example",
+		"/home/alex/Projects/atlasx2/composer.json",
+		"/home/alex/Projects/atlasx2/documentation/upgrade-notes.txt",
+		"/home/alex/Projects/atlasx2/composer.lock",
+		"/home/alex/Projects/atlasx2/app/Http/helpers.php",
+		"/home/alex/Projects/atlasx2/config/cors.php",
+		"/home/alex/Projects/atlasx2/package.json",
+		"/home/alex/Projects/atlasx2/bower.json",
+		"/home/alex/Projects/atlasx2/sftp-config.json",
+		"/home/alex/Projects/atlasx2/public/js/services/app-service.js",
+		"/home/alex/Projects/atlasx2/.env",
+		"/home/alex/Projects/atlasx/app/Exceptions/Handler.php",
+		"/home/alex/Projects/atlasx/app/Models/Teamwork/Invite.php",
+		"/home/alex/Projects/atlasx/public/js/team/views/partials/team-list-all.client.view.html",
+		"/home/alex/Projects/atlasx/public/js/team/controllers/team.client.controller.js",
+		"/home/alex/Projects/atlasx/app/Http/Controllers/TeamController.php",
+		"/home/alex/Projects/atlasx/app/Http/Controllers/ImportController.php",
+		"/home/alex/Projects/atlasx/resources/views/reports/body.blade.php",
+		"/home/alex/Projects/atlasx/app/Models/Report.php",
+		"/home/alex/Projects/atlasx/app/Http/Controllers/RouteController.php",
+		"/home/alex/Projects/atlasx/resources/views/reports/prep/body.blade.php",
+		"/home/alex/Projects/atlasx/app/Http/Controllers/SearchController.php",
+		"/home/alex/Projects/atlasx/resources/views/reports/prep/footer.blade.php",
+		"/home/alex/Projects/atlasx/resources/views/reports/prep/header.blade.php",
+		"/home/alex/Projects/atlasx/.env",
+		"/home/alex/Projects/atlasx/.env.example",
+		"/home/alex/Projects/atlasx/sftp-config.json",
+		"/home/alex/Projects/atlasx/scripts/ssl-renewal-development.sh",
+		"/home/alex/Projects/atlasx/resources/views/reports/buckingham/body.blade.php",
+		"/home/alex/Projects/atlasx/app/Http/Controllers/GroupController.php",
+		"/home/alex/Projects/atlasx/app/Models/Group.php",
+		"/home/alex/Projects/atlasx/public/js/group/controllers/group.client.controller.js",
+		"/home/alex/Projects/atlasx/public/js/group/views/partials/group-delete-modal.client.view.html",
+		"/home/alex/Projects/atlasx/documentation/branch_notes/team-groups/group-delete-modal-old.html",
+		"/home/alex/Projects/atlasx/public/js/report/views/report-create-modal.client.view.html",
+		"/home/alex/Projects/atlasx/public/js/report/views/report-edit-modal.client.view.html",
+		"/home/alex/Projects/atlasx/public/js/report/controllers/report.client.controller.js",
+		"/home/alex/Projects/atlasx/public/js/team/views/partials/team-create-invite-modal.client.view.html",
+		"/home/alex/Projects/atlasx/database/migrations/2018_09_13_144752_lern_extend.php",
+		"/home/alex/Projects/atlasx/vendor/tylercd100/lern/src/Components/Recorder.php",
+		"/home/alex/Projects/atlasx/config/lern.php",
+		"/home/alex/Projects/atlasx/app/Http/Controllers/PipelineController.php",
+		"/home/alex/Projects/atlasx/public/js/pipeline/controllers/pipeline.client.controller.js",
+		"/home/alex/Projects/atlasx/public/js/user/views/login.client.view.html",
+		"/home/alex/Projects/atlasx/resources/views/emails/team-invite.blade.php",
+		"/home/alex/Projects/atlasx/app/Http/routes.php",
+		"/home/alex/Projects/atlasx/public/js/user/services/authentication.client.service.js",
+		"/home/alex/Projects/atlasx/app/Http/Requests/Auth/RegistrationRequest.php",
+		"/home/alex/Projects/atlasx/app/Console/Commands/Seeder.php",
+		"/home/alex/Projects/atlasx/resources/views/dashboard.blade.php",
+		"/home/alex/Projects/atlasx/public/js/filters/task-filter.js",
+		"/home/alex/Projects/atlasx/app/Http/Requests/Setting/UpdateSettingsRequest.php",
+		"/home/alex/Projects/atlasx/public/js/application.js",
+		"/home/alex/Projects/atlasx/resources/views/user.blade.php",
+		"/home/alex/Projects/atlasx/public/js/filters/phone-filter.js",
+		"/home/alex/Projects/atlasx/public/js/filters/dropdown-filter.js",
+		"/home/alex/Projects/atlasx/public/js/person/views/partials/person-create-modal.client.view.html",
+		"/home/alex/Projects/atlasx/public/js/directives/ax-international-phone/ax-international-phone.js",
+		"/home/alex/Projects/atlasx/resources/views/user/signup.blade.php",
+		"/home/alex/Projects/atlasx/resources/views/user/join-team.blade.php",
+		"/home/alex/Projects/atlasx/public/js/user/views/join.client.view.html",
+		"/home/alex/Projects/atlasx/public/js/user/views/signup.client.view.html",
+		"/home/alex/Desktop/thing.js",
+		"/home/alex/Projects/atlasx/public/js/services/app-service.js",
+		"/home/alex/Projects/atlasx/public/js/user/controllers/authentication.client.controller.js",
+		"/home/alex/Projects/atlasx/app/Http/Controllers/AppController.php",
+		"/home/alex/Projects/atlasx/app/Http/Controllers/Auth/AuthController.php",
+		"/home/alex/Projects/atlasx/public/js/user/user.client.module.js",
+		"/home/alex/Projects/atlasx/public/js/user/services/user.client.service.js",
+		"/home/alex/Projects/atlasx/public/js/user-application.js",
+		"/home/alex/Projects/atlasx/public/js/person/controllers/person.client.controller.js",
+		"/home/alex/Projects/atlasx/public/js/import/controllers/import.client.controller.js",
+		"/home/alex/Projects/atlasx/resources/views/partials/user-head.blade.php",
+		"/home/alex/Projects/atlasx/resources/views/partials/dash-head.blade.php",
+		"/home/alex/Projects/atlasx/public/js/app/controllers/app.client.controller.js",
+		"/home/alex/Projects/atlasx/public/js/filters/deal-filter.js",
+		"/home/alex/Projects/atlasx/public/js/auth-application.js",
+		"/home/alex/Projects/atlasx/config/app.php",
+		"/home/alex/Projects/atlasx/app/Models/Deal.php",
+		"/home/alex/Projects/atlasx/app/Http/Controllers/DealController.php",
+		"/home/alex/Projects/atlasx/app/Models/Field.php",
+		"/home/alex/Projects/atlasx/gulpfile.js",
+		"/home/alex/Projects/atlasx/app/Providers/RouteServiceProvider.php",
+		"/home/alex/Projects/atlasx/public/js/services/ax-dash-name-service.js",
+		"/home/alex/Projects/atlasx/database/migrations/2018_09_05_172913_measurements.php",
+		"/home/alex/Projects/atlasx/resources/views/reports/wheelock/body.blade.php",
+		"/home/alex/Projects/atlasx/app/Http/helpers/appHelpers.php",
+		"/home/alex/Projects/atlasx/resources/views/reports/worldclass/body.blade.php",
+		"/home/alex/Projects/atlasx/resources/views/reports/tempreport/body.blade.php",
+		"/home/alex/Projects/atlasx/database/migrations/2018_09_07_164518_atlasx_fields.php",
+		"/home/alex/Projects/atlasx/resources/views/reports/beacon/body.blade.php",
+		"/home/alex/Projects/atlasx/resources/views/reports/lionheart/body.blade.php",
+		"/home/alex/Projects/atlasx/resources/views/reports/prepreit/body.blade.php",
+		"/home/alex/Projects/atlasx/resources/views/reports/kub/body.blade.php",
+		"/home/alex/Projects/atlasx/app/Models/Property.php",
+		"/home/alex/Projects/atlasx/public/js/filters/property-filter.js",
+		"/home/alex/Projects/atlasx/public/js/directives/ax-ui-select/ui-select/test/helpers.js",
+		"/home/alex/Projects/atlasx/public/js/pipeline/views/partials/pipeline-filter-summary.client.view.html",
+		"/home/alex/Projects/atlasx/public/js/directives/ax-filter-summary/ax-filter-summary.client.tpl.html",
+		"/home/alex/Projects/atlasx/public/js/pipeline/views/partials/pipeline-sub-nav.client.view.html",
+		"/home/alex/Projects/atlasx/public/js/directives/ax-custom-search/custom-search/ax-advanced-search.js",
+		"/home/alex/Projects/atlasx/app/Repositories/Pipeline/PipelineRepository.php",
+		"/home/alex/Projects/atlasx/app/Http/Requests/FieldTemplate/UpdateFieldTemplateRequest.php",
+		"/home/alex/Projects/atlasx/app/Models/User.php",
+		"/home/alex/Projects/atlasx/app/Models/Teamwork/Team.php",
+		"/home/alex/Projects/atlasx/app/Http/Controllers/UserController.php",
+		"/home/alex/Projects/atlasx/app/Transformers/UserTransformer.php"
+	],
+	"find":
+	{
+		"height": 49.0
+	},
+	"find_in_files":
+	{
+		"height": 135.0,
+		"where_history":
+		[
+			"/home/alex/Projects/mutabledesigns",
+			"/home/alex/Projects/laravel-blog",
+			"/home/alex/Projects/laradock",
+			"/home/alex/Projects/mutabledesigns",
+			"/home/alex/Projects/laradock",
+			"/home/alex/Projects/mutabledesigns",
+			"/home/alex/Projects/atlasx2",
+			"/home/alex/Projects/atlasx",
+			"/home/alex/Projects/atlasx/vendor/tylercd100/lern",
+			"/home/alex/Projects/atlasx",
+			"/home/alex/Projects/atlasx/app/Http/Requests",
+			"/home/alex/Projects/atlasx",
+			"/home/alex/Projects/atlasx/resources/views/reports",
+			"/home/alex/Projects/atlasx",
+			"/home/alex/Projects/atlasx/resources/views/reports",
+			"/home/alex/Projects/atlasx",
+			"/home/alex/Projects/atlasx/app",
+			"/home/alex/Projects/atlasx/app/Console/Commands",
+			"/home/alex/Projects/atlasx",
+			"/home/alex/Projects/atlasx/public",
+			"/home/alex/Projects/atlasx",
+			"/home/alex/Projects/atlasx/resources/views/reports",
+			"/home/alex/Projects/atlasx",
+			"/home/alex/Projects/atlasx/resources",
+			"/home/alex/Projects/atlasx"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"var/www",
+			"www",
+			"var",
+			"var/www",
+			"logs",
+			"log",
+			"getcomposer",
+			"composer",
+			"php",
+			"composer",
+			"ax-deal-options",
+			"axdealoptions",
+			"ax.deal.options",
+			"html",
+			"key:generate",
+			"artisan",
+			"postgres",
+			"vhost",
+			"=",
+			"\"",
+			"MYSQL",
+			"mysql:",
+			"mysql",
+			"volumes",
+			"backend",
+			"redis:",
+			"redis",
+			"nginx",
+			"image",
+			"dom-crawler",
+			"laravel",
+			"alex",
+			"fieldtransformer",
+			"createactivation",
+			"delete",
+			"offer",
+			"atlasx",
+			"mid",
+			"left",
+			"stage",
+			"pulse",
+			"18px",
+			"tbody",
+			"pulse",
+			"class=\"stage",
+			"eee",
+			"14",
+			"total",
+			"pulse-deal",
+			"49",
+			"50",
+			"50%",
+			"pipeline-pulse",
+			"newDeals",
+			"newdeals",
+			"new",
+			"old",
+			"'a4'",
+			"a4",
+			"100million",
+			"pricing",
+			"latest",
+			"chart-legend",
+			"colspan",
+			"div",
+			"overflow",
+			"deal-row",
+			"border",
+			"width",
+			"overflow",
+			"colspan",
+			"overflow",
+			"SET user_id",
+			"SET user_id = ,",
+			"wherehas",
+			"->has",
+			"->fieldtemplates()",
+			"grouprequired",
+			"validator",
+			"multiple",
+			"valida",
+			"length",
+			"<ui-select",
+			"required",
+			"<ui-select",
+			"required",
+			"<ui-select",
+			"required",
+			"groups",
+			"group",
+			"group_id in",
+			"wherein",
+			"where in",
+			"dealstage_report_index ASC",
+			"$request->",
+			"trace",
+			"table",
+			"/signup",
+			"signup",
+			"uth/signup",
+			"403",
+			"app.filters",
+			", []).",
+			"angular.module('app.filters'",
+			"phone",
+			"filters",
+			"app.filters",
+			"filter",
+			"dynamicFilter",
+			"dynamicFilterFilterProvider",
+			"dd(",
+			"$",
+			"$scope",
+			"$elm",
+			"$attr",
+			"ctrl",
+			"controller",
+			"intlphonectrl",
+			"appservice",
+			"$q",
+			"window",
+			"getter",
+			"$getter",
+			"setselectedcountrydata",
+			"set",
+			"format",
+			"pars",
+			"pers"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 139.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 151.0
+	},
+	"pinned_build_system": "",
+	"project": "mutable-designs.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"helpers",
+				"app/Http/helpers.php"
+			],
+			[
+				"composer.j",
+				"composer.json"
+			],
+			[
+				"cors",
+				"config/cors.php"
+			],
+			[
+				"composer.",
+				"composer.json"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"bower.",
+				"bower.json"
+			],
+			[
+				"weeklydigest",
+				"app/Console/Commands/WeeklyDigest.php"
+			],
+			[
+				"fieldtrans",
+				"app/Transformers/FieldTransformer.php"
+			],
+			[
+				"hand",
+				"app/Exceptions/Handler.php"
+			],
+			[
+				"invite",
+				"app/Models/Teamwork/Invite.php"
+			],
+			[
+				"teamcontr",
+				"app/Http/Controllers/TeamController.php"
+			],
+			[
+				"team client contr",
+				"public/js/team/controllers/team.client.controller.js"
+			],
+			[
+				"team view",
+				"public/js/team/views/partials/team-list-all.client.view.html"
+			],
+			[
+				"body blad",
+				"resources/views/reports/body.blade.php"
+			],
+			[
+				"importcontr",
+				"app/Http/Controllers/ImportController.php"
+			],
+			[
+				"report",
+				"app/Models/Report.php"
+			],
+			[
+				"searchcont",
+				"app/Http/Controllers/SearchController.php"
+			],
+			[
+				"routecontr",
+				"app/Http/Controllers/RouteController.php"
+			],
+			[
+				"prep foot",
+				"resources/views/reports/prep/footer.blade.php"
+			],
+			[
+				"prep hea",
+				"resources/views/reports/prep/header.blade.php"
+			],
+			[
+				"prep body blad",
+				"resources/views/reports/prep/body.blade.php"
+			],
+			[
+				"buckingham body blad",
+				"resources/views/reports/buckingham/body.blade.php"
+			],
+			[
+				"group",
+				"app/Models/Group.php"
+			],
+			[
+				"groupcontr",
+				"app/Http/Controllers/GroupController.php"
+			],
+			[
+				"group client contr",
+				"public/js/group/controllers/group.client.controller.js"
+			],
+			[
+				"group delete modal",
+				"public/js/group/views/partials/group-delete-modal.client.view.html"
+			],
+			[
+				"group delete",
+				"documentation/branch_notes/team-groups/group-delete-modal-old.html"
+			],
+			[
+				"create invite modal",
+				"public/js/team/views/partials/team-create-invite-modal.client.view.html"
+			],
+			[
+				"report client contr",
+				"public/js/report/controllers/report.client.controller.js"
+			],
+			[
+				"report edit",
+				"public/js/report/views/report-edit-modal.client.view.html"
+			],
+			[
+				"report modal",
+				"public/js/report/views/report-create-modal.client.view.html"
+			],
+			[
+				"pipelinecontr",
+				"app/Http/Controllers/PipelineController.php"
+			],
+			[
+				"pipeline client contr",
+				"public/js/pipeline/controllers/pipeline.client.controller.js"
+			],
+			[
+				"lern",
+				"config/lern.php"
+			],
+			[
+				"dashboar",
+				"resources/views/dashboard.blade.php"
+			],
+			[
+				"dropdown fil",
+				"public/js/filters/dropdown-filter.js"
+			],
+			[
+				"phone fil",
+				"public/js/filters/phone-filter.js"
+			],
+			[
+				"signuprequest",
+				"app/Http/Requests/Setting/UpdateSettingsRequest.php"
+			],
+			[
+				"task fil",
+				"public/js/filters/task-filter.js"
+			],
+			[
+				"user blad",
+				"resources/views/user.blade.php"
+			],
+			[
+				"dash",
+				"resources/views/dashboard.blade.php"
+			],
+			[
+				"app",
+				"public/js/application.js"
+			],
+			[
+				"singup bl",
+				"resources/views/user/signup.blade.php"
+			],
+			[
+				"join",
+				"resources/views/user/join-team.blade.php"
+			],
+			[
+				"join view",
+				"public/js/user/views/join.client.view.html"
+			],
+			[
+				"person create modal",
+				"public/js/person/views/partials/person-create-modal.client.view.html"
+			],
+			[
+				"appservice",
+				"public/js/services/app-service.js"
+			],
+			[
+				"ax in",
+				"public/js/directives/ax-international-phone/ax-international-phone.js"
+			],
+			[
+				"authcontr",
+				"app/Http/Controllers/Auth/AuthController.php"
+			],
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"person client contr",
+				"public/js/person/controllers/person.client.controller.js"
+			],
+			[
+				"user app",
+				"public/js/user-application.js"
+			],
+			[
+				"ax int",
+				"public/js/directives/ax-international-phone/ax-international-phone.js"
+			],
+			[
+				"authcont",
+				"app/Http/Controllers/Auth/AuthController.php"
+			],
+			[
+				"appcont",
+				"app/Http/Controllers/AppController.php"
+			],
+			[
+				"import client contr",
+				"public/js/import/controllers/import.client.controller.js"
+			],
+			[
+				"signup",
+				"public/js/user/views/signup.client.view.html"
+			],
+			[
+				"deal-fil",
+				"public/js/filters/deal-filter.js"
+			],
+			[
+				"dropdownfil",
+				"public/js/filters/dropdown-filter.js"
+			],
+			[
+				" app client contr",
+				"public/js/app/controllers/app.client.controller.js"
+			],
+			[
+				"appctrl",
+				"app/Http/Controllers/AppController.php"
+			],
+			[
+				"dropdown-fil",
+				"public/js/filters/dropdown-filter.js"
+			],
+			[
+				"user head",
+				"resources/views/partials/user-head.blade.php"
+			],
+			[
+				"dash head",
+				"resources/views/partials/dash-head.blade.php"
+			],
+			[
+				"dashboard",
+				"resources/views/dashboard.blade.php"
+			],
+			[
+				"user bla",
+				"resources/views/user.blade.php"
+			],
+			[
+				"appl",
+				"public/js/application.js"
+			],
+			[
+				"auth appl",
+				"public/js/auth-application.js"
+			],
+			[
+				"user mod",
+				"public/js/user/user.client.module.js"
+			],
+			[
+				"intl",
+				"public/js/directives/ax-international-phone/ax-international-phone.js"
+			],
+			[
+				"percon client cont",
+				"public/js/person/controllers/person.client.controller.js"
+			],
+			[
+				"phone-filter",
+				"public/js/filters/phone-filter.js"
+			],
+			[
+				"ax-internation",
+				"public/js/directives/ax-international-phone/ax-international-phone.js"
+			],
+			[
+				"dashhead",
+				"resources/views/partials/dash-head.blade.php"
+			],
+			[
+				"application.js",
+				"public/js/application.js"
+			],
+			[
+				"auth-appli",
+				"public/js/auth-application.js"
+			],
+			[
+				"user.bla",
+				"resources/views/user.blade.php"
+			],
+			[
+				"config",
+				"config/app.php"
+			],
+			[
+				"deal",
+				"app/Models/Deal.php"
+			],
+			[
+				"field",
+				"app/Models/Field.php"
+			],
+			[
+				"dealcontr",
+				"app/Http/Controllers/DealController.php"
+			],
+			[
+				"routes",
+				"app/Providers/RouteServiceProvider.php"
+			],
+			[
+				"dashboard.blad",
+				"resources/views/dashboard.blade.php"
+			],
+			[
+				"wheelock body blad",
+				"resources/views/reports/wheelock/body.blade.php"
+			],
+			[
+				"worldclass body bla",
+				"resources/views/reports/worldclass/body.blade.php"
+			],
+			[
+				"tempreport body bl",
+				"resources/views/reports/tempreport/body.blade.php"
+			],
+			[
+				"apphe",
+				"app/Http/helpers/appHelpers.php"
+			],
+			[
+				"apphel",
+				"app/Http/helpers/appHelpers.php"
+			],
+			[
+				"body blade",
+				"resources/views/reports/body.blade.php"
+			],
+			[
+				"apphelp",
+				"app/Http/helpers/appHelpers.php"
+			],
+			[
+				"byd blade",
+				"resources/views/reports/body.blade.php"
+			],
+			[
+				"body bnlad",
+				"resources/views/reports/beacon/body.blade.php"
+			],
+			[
+				"tempreport body",
+				"resources/views/reports/tempreport/body.blade.php"
+			],
+			[
+				"lionheart body bl",
+				"resources/views/reports/lionheart/body.blade.php"
+			],
+			[
+				"routecont",
+				"app/Http/Controllers/RouteController.php"
+			],
+			[
+				"prep body bla",
+				"resources/views/reports/prep/body.blade.php"
+			],
+			[
+				"property",
+				"app/Models/Property.php"
+			],
+			[
+				"fie",
+				"app/Models/Field.php"
+			],
+			[
+				"dealf",
+				"public/js/filters/deal-filter.js"
+			],
+			[
+				"property filter",
+				"public/js/filters/property-filter.js"
+			],
+			[
+				"app hel",
+				"app/Http/helpers/appHelpers.php"
+			],
+			[
+				"allhelp",
+				"public/js/directives/ax-ui-select/ui-select/test/helpers.js"
+			],
+			[
+				"ax search",
+				"public/js/directives/ax-custom-search/custom-search/ax-advanced-search.js"
+			],
+			[
+				"pipelinecont",
+				"app/Http/Controllers/PipelineController.php"
+			],
+			[
+				"updatefieldtemplate",
+				"app/Http/Requests/FieldTemplate/UpdateFieldTemplateRequest.php"
+			],
+			[
+				"pipelinerep",
+				"app/Repositories/Pipeline/PipelineRepository.php"
+			],
+			[
+				"user",
+				"app/Models/User.php"
+			],
+			[
+				"pipelinrep",
+				"app/Repositories/Pipeline/PipelineRepository.php"
+			],
+			[
+				"team",
+				"app/Models/Teamwork/Team.php"
+			],
+			[
+				"usercontr",
+				"app/Http/Controllers/UserController.php"
+			],
+			[
+				"usertrans",
+				"app/Transformers/UserTransformer.php"
+			],
+			[
+				"pipeline rep",
+				"app/Repositories/Pipeline/PipelineRepository.php"
+			],
+			[
+				"nav",
+				"public/js/pipeline/views/partials/pipeline-sub-nav.client.view.html"
+			],
+			[
+				"appli",
+				"public/js/application.js"
+			],
+			[
+				"grouptransform",
+				"app/Transformers/GroupTransformer.php"
+			],
+			[
+				"app-serv",
+				"public/js/services/app-service.js"
+			],
+			[
+				"appserv",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"shared",
+				"public/js/services/shared-service.js"
+			],
+			[
+				"app serv",
+				"public/js/services/app-service.js"
+			],
+			[
+				"service",
+				"public/js/services/validation-service.js"
+			],
+			[
+				"app client cont",
+				"public/js/app/controllers/app.client.controller.js"
+			],
+			[
+				"rout",
+				"app/Http/routes.php"
+			],
+			[
+				"pipelinerepo",
+				"app/Repositories/Pipeline/PipelineRepository.php"
+			],
+			[
+				"pipeline repo",
+				"app/Repositories/Pipeline/PipelineRepository.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
